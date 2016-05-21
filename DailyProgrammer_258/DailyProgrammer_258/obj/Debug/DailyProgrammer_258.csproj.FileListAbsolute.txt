@@ -1,0 +1,9 @@
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\bin\Debug\DailyProgrammer_258.exe.config
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\bin\Debug\DailyProgrammer_258.exe
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\bin\Debug\DailyProgrammer_258.pdb
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\obj\Debug\DailyProgrammer_258.csprojResolveAssemblyReference.cache
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\obj\Debug\DailyProgrammer_258.Form1.resources
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\obj\Debug\DailyProgrammer_258.Properties.Resources.resources
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\obj\Debug\DailyProgrammer_258.csproj.GenerateResource.Cache
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\obj\Debug\DailyProgrammer_258.exe
+c:\users\dbrow_000\documents\visual studio 2015\Projects\DailyProgrammer_258\DailyProgrammer_258\obj\Debug\DailyProgrammer_258.pdb
